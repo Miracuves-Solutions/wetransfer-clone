@@ -71,7 +71,7 @@ flowchart LR
 - ✅ 60 days post-launch support + 12 months of free updates
 - ✅ Documentation & handover
 
-**Pricing:** from **$3,299**, transparent on the [solution page](https://miracuves.com/wetransfer-clone/#pricing) — no "contact us for quote" games.
+**Pricing:** from **$2,499**, transparent on the [solution page](https://miracuves.com/wetransfer-clone/#pricing) — no "contact us for quote" games.
 
 ## 🆚 Why Not Build From Scratch?
 
@@ -109,7 +109,7 @@ TEMPLATE VARIABLE KEY — auto-generated from Netflix-Clone pattern
 {MX_NAME}         MXTransfer
 {CATEGORY}        File Sharing & Cloud Storage Platform
 {DEMO_WEB}        mxtransfer.mimeld.com
-{PRICE}           $3,299
+{PRICE}           $2,499
 {SLUG}            wetransfer-clone
 {SOLUTION_URL}    https://miracuves.com/wetransfer-clone/
 {VERTICAL}        storage
