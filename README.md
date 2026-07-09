@@ -29,10 +29,10 @@ Demo credentials for all environments: **[miracuves.com/wetransfer-clone → Dem
 Most file-sharing scripts stop at "upload + share link." This platform ships with the features that actually run a file-sharing *business*:
 
 - **Up To 100GB Free Transfers** — large-file transfer with no signup needed — same conversion trick WeTransfer pioneered
-- **Secure Links + Expiry** — 
-- **Preview 200+ File Types** — every share link gets password, expiry, and watermark options — Dropbox Smart Workspace basics
-- **E-Signature Built In** — custom domain, logo, colors on every share page — what agencies need for client work
-- **White-Label Branding** — request signatures on PDFs, track signer progress, audit log — saves a SaaS subscription for clients
+- **Secure Links + Expiry** — every share link gets password, expiry, and watermark options — Dropbox Smart Workspace basics
+- **Preview 200+ File Types** — in-browser preview for documents, images, video, audio, code, CAD — what makes web upload useful
+- **E-Signature Built In** — request signatures on PDFs, track signer progress, audit log — saves a SaaS subscription for clients
+- **White-Label Branding** — custom domain, logo, colors on every share page — what agencies need for client work
 
 ## 📦 Core Features
 
