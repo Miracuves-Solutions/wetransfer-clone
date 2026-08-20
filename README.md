@@ -2,10 +2,10 @@
 
 [![Live Demo](https://img.shields.io/badge/Live_Demo-Try_Now-e8344f?style=for-the-badge)](https://mxtransfer.mimeld.com)
 [![Website](https://img.shields.io/badge/Solution_Page-miracuves.com-0b0b10?style=for-the-badge)](https://miracuves.com/wetransfer-clone/)
-[![Delivery](https://img.shields.io/badge/Go_Live-6_Working_Days-2ecc8f?style=for-the-badge)](https://miracuves.com/wetransfer-clone/#pricing)
-[![Support](https://img.shields.io/badge/Support-60_Days_+_12mo_Updates-blue?style=for-the-badge)](https://miracuves.com/facts/)
+[![Delivery](https://img.shields.io/badge/Go_Live-6_Working_Days-2ecc8f?style=for-the-badge)](https://miracuves.com/wetransfer-clone/#features)
+[![Support](https://img.shields.io/badge/Support-60_Days_+_12mo_Updates-blue?style=for-the-badge)](https://miracuves.com/wetransfer-clone/#features)
 
-**MXTransfer** is a production-ready, white-label Wetransfer clone: a complete file-sharing & cloud-storage platform with upload, share, preview, and admin console — delivered with **100% source code ownership** in **6 working days**.
+**mxtransfer** is a production-ready, white-label Wetransfer clone: a complete file-sharing & cloud-storage platform with upload, share, preview, and admin console — delivered with **100% source code ownership** in **6 working days**.
 
 > 📦 **See it running before you talk to anyone.** Live upload app, web console, and admin dashboard — demo credentials are printed on the [solution page](https://miracuves.com/wetransfer-clone#demo). No sales call required.
 
@@ -71,7 +71,7 @@ flowchart LR
 - ✅ 60 days post-launch support + 12 months of free updates
 - ✅ Documentation & handover
 
-**Pricing:** from **$2,499**, transparent on the [solution page](https://miracuves.com/wetransfer-clone/#pricing) — no "contact us for quote" games.
+**Pricing:** from **$2,499**, transparent on the [solution page](https://miracuves.com/wetransfer-clone/#features) — no "contact us for quote" games.
 
 ## 🆚 Why Not Build From Scratch?
 
@@ -80,10 +80,12 @@ Custom file-sharing platforms run $60k–$250k and 4–8 months. A proven white-
 ## 📚 Resources
 
 - 📖 [Wetransfer Clone — Full Solution Page](https://miracuves.com/wetransfer-clone) (features, pricing, demos, FAQ)
-- 💰 [How Much Does a File Sharing App Cost in 2026?](https://miracuves.com/wetransfer-clone#pricing) pricing breakdown & what's included
-- 📝 [Best Wetransfer Clone Script in 2026](https://miracuves.com/wetransfer-clone/blog/) features, pricing & launch guide
-- 🧠 [Large-File Transfers: Conversion to Paid Plans](https://miracuves.com/wetransfer-clone/blog/) freemium math, WeTransfer play
-- ✅ [Miracuves Facts & Claims Ledger](https://miracuves.com/wetransfer-clone/facts/) every claim we make, verified
+- 💰 [How Much Does a File Sharing App Cost in 2026?](https://miracuves.com/wetransfer-clone#features) pricing breakdown & what's included
+- 📝 [Best Wetransfer Clone Script in 2026](https://miracuves.com/wetransfer-clone#features) features, pricing & launch guide
+- 🧠 [Large-File Transfers: Conversion to Paid Plans](https://miracuves.com/wetransfer-clone#features) freemium math, WeTransfer play
+- ✅ [Miracuves Facts & Claims Ledger](https://miracuves.com/wetransfer-clone#faq) every claim we make, verified
+- 💻 [Wetransfer Clone — Technical Stack](https://miracuves.com/wetransfer-clone#techstack) languages, databases, infra, payments, hosting
+- 🔄 [Wetransfer Clone — How It Works / User Flow](https://miracuves.com/wetransfer-clone#flow) step-by-step product walkthrough
 
 ## 🏢 About Miracuves
 
@@ -95,7 +97,7 @@ Custom file-sharing platforms run $60k–$250k and 4–8 months. A proven white-
 
 ### ⚠️ Note on This Repository
 
-This repository is a product overview. The full source code is delivered to clients on purchase — see [what’s included](https://miracuves.com/wetransfer-clone/#included). For a hands-on evaluation, use the live demos above; credentials are public on the solution page.
+This repository is a product overview. The full source code is delivered to clients on purchase — see [what’s included](https://miracuves.com/wetransfer-clone/#features). For a hands-on evaluation, use the live demos above; credentials are public on the solution page.
 
 *Keywords: wetransfer clone, wetransfer clone script, file sharing, cloud storage, large file transfer, white label WeTransfer, e-signature, Flutter storage app, Node.js storage*
 
@@ -106,7 +108,7 @@ This repository is a product overview. The full source code is delivered to clie
 TEMPLATE VARIABLE KEY — auto-generated from Netflix-Clone pattern
 ══════════════════════════════════════════════════
 {APP_NAME}        Wetransfer Clone
-{MX_NAME}         MXTransfer
+{MX_NAME}         mxtransfer
 {CATEGORY}        File Sharing & Cloud Storage Platform
 {DEMO_WEB}        mxtransfer.mimeld.com
 {PRICE}           $2,499
